@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <!-- Framework -->
   <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green">
+  <!-- LLM -->
+  <img src="https://img.shields.io/badge/LLM-OpenAI-lightgrey">
+  
   
  
 </p>
@@ -42,7 +45,7 @@
 ## Project
 
 <p>
-   This project is AI Email Writer, which enables for users to create <br/>
+   This project is focused on creating AI agent with Python and Langchain. <br/>
   Email contents by sending prompts to the chatbot (used Gemini here).<br/>
 
   <h1>Backend (SpringBoot)</h1>
