@@ -26,6 +26,10 @@
 
 ## AI agnet with Python (Langchain & OpenAI API)
 
+
+<h1>Hands-on Video<h1>
+
+
 <!-- プロジェクトについて -->
 
 ## Project
