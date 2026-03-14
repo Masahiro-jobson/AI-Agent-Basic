@@ -52,7 +52,7 @@
 
 <!-- Treeコマンドを使ってディレクトリ構成を記載 -->
 
-❯ tree -I 'node_modules'
+❯ tree -I 'I_Agent_Tutorial'
 ```bash
 
 AI_Agent_Tutorial/
