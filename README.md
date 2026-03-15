@@ -28,7 +28,8 @@
 
 
 <h1>Hands-on Video<h1>
-![Watch the video](https://github.com/Masahiro-jobson/AI_Agent_Basic/blob/main/Screen%20Recording%202026-03-15%20at%203.59.16%20pm.mov)
+[![Watch the video](https://raw.githubusercontent.com/Masahiro-jobson/AI_Agent_Basic/main/assets/Screen Recording 2026-03-15 at 3.59.16 pm.mov)]
+
 
 
 Screen Recording 2026-03-15 at 3.59.16 pm.mov
