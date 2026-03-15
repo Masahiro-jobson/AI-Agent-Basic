@@ -28,7 +28,10 @@
 
 
 <h1>Hands-on Video<h1>
+![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
 
+
+Screen Recording 2026-03-15 at 3.59.16 pm.mov
 
 <!-- プロジェクトについて -->
 
