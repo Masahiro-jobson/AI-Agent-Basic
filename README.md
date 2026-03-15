@@ -28,7 +28,6 @@
 
 
 <h1>Hands-on Video<h1>
-[![Watch the video](https://raw.githubusercontent.com/Masahiro-jobson/AI_Agent_Basic/main/assets/Screen%20Recording%202026-03-15%20at%203.59.16%20pm.mov)]
 
 
 <!-- プロジェクトについて -->
