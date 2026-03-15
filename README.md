@@ -28,7 +28,7 @@
 
 
 <h1>Hands-on Video<h1>
-
+https://github.com/user-attachments/assets/8fe89d07-6dbc-4b30-9462-8ad971462ae6
 
 <!-- プロジェクトについて -->
 
