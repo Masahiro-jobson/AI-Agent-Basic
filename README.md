@@ -28,7 +28,7 @@
 
 
 <h1>Hands-on Video<h1>
-![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+![Watch the video](https://github.com/Masahiro-jobson/AI_Agent_Basic/blob/main/Screen%20Recording%202026-03-15%20at%203.59.16%20pm.mov)
 
 
 Screen Recording 2026-03-15 at 3.59.16 pm.mov
